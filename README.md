@@ -15,7 +15,7 @@ Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y e
 
 ## 📊 Mis estadísticas
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&hide_title=true)
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=LaureanoDev18&show_icons=true&count_private=true&hide_title=true)
 
 ## 🖼️ Banner personal
 
