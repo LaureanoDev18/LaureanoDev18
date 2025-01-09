@@ -19,7 +19,7 @@ Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y e
 
 ## 🖼️ Banner personal
 
-![Mi banner]([Descargas])
+![Mi banner]([Banner web.jpg])
 
 ## 📬 Contáctame
 
