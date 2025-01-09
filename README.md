@@ -1,18 +1,17 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Laureano Gonzalez 👋
 
 Bienvenido a mi página de GitHub. Soy un apasionado de la tecnología y la programación.
 
 ## 💼 Resumen sobre mí
 
-Soy [tu profesión] con experiencia en [áreas clave]. Me encanta aprender nuevas tecnologías y enfrentar retos. He trabajado en proyectos que abarcan desde [tipo de proyectos o trabajos] hasta [otro tipo de proyectos].
+Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y enfrentar retos. He trabajado en proyectos web de la carrera (basicos).
 
 ## 🔧 Habilidades adquiridas
 
-- **Lenguajes de programación:** Python, JavaScript, Java, C++
-- **Frameworks y herramientas:** React, Node.js, Django, Flask
-- **Base de datos:** MySQL, MongoDB
-- **Desarrollo web:** HTML, CSS, Bootstrap
-- **Otras habilidades:** Git, Docker, APIs
+- **Desarrollo web:** HTML, CSS, JavaScript ✔
+- **Lenguajes de programación:** Python, JavaScript ✔
+- **Frameworks y herramientas:** React (En proceso) ❌
+- **Otras habilidades:** Git, APIs (En proceso) ❌
 
 ## 📊 Mis estadísticas
 
