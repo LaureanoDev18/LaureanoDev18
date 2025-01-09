@@ -1,4 +1,3 @@
-## Hi there 👋
 <div style=background-color:#333>Hola, Soy Laureano 👨🏽‍💻</div>
 <hr>
 <!--
