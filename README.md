@@ -2,6 +2,8 @@
 
 Bienvenido a mi página de GitHub. Soy un apasionado de la tecnología y la programación.
 
+![Mi banner](https://github.com/LaureanoDev18/LaureanoDev18/blob/main/Banner%20web.jpg)
+
 ## 💼 Resumen sobre mí
 
 Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y enfrentar retos. He trabajado en proyectos web de la carrera (basicos).
@@ -16,10 +18,6 @@ Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y e
 ## 📊 Mis estadísticas
 
 ![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=LaureanoDev18&show_icons=true&count_private=true&hide_title=true)
-
-## 🖼️ Banner personal
-
-![Mi banner](https://github.com/LaureanoDev18/LaureanoDev18/blob/main/Banner%20web.jpg)
 
 ## 📬 Contáctame
 
