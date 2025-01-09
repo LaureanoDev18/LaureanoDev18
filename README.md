@@ -19,7 +19,7 @@ Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y e
 
 ## 🖼️ Banner personal
 
-![Mi banner]([Banner web.jpg])
+![Mi banner]([https://github.com/LaureanoDev18/LaureanoDev18/blob/main/Banner%20web.jpg])
 
 ## 📬 Contáctame
 
