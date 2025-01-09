@@ -19,7 +19,7 @@ Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y e
 
 ## 🖼️ Banner personal
 
-![Mi banner]([https://link_de_tu_banner_imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F6362890-programacion-y-desarrollo-de-software-pagina-web-banner-programa-codigo-en-pantalla-dispositivo-desarrollo-de-software-codificacion-proceso-concepto&psig=AOvVaw21rUtlK9hleTHCmmbV0dRA&ust=1736532181200000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwifmtfPnOmKAxUmWbgEHbk_CjwQjRx6BAgAEBk)
+![Mi banner]([Descargas])
 
 ## 📬 Contáctame
 
