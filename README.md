@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div>Hola, Soy Laureano 👨🏽‍💻</div>
+<div style=background-color:#333>Hola, Soy Laureano 👨🏽‍💻</div>
 <!--
 **LaureanoDev18/LaureanoDev18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
