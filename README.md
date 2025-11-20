@@ -21,5 +21,5 @@ Soy un desarrollador en progreso. Me gusta aprender nuevas tecnologías y enfren
 
 ## 📬 Contáctame
 
-- Correo electrónico: [Laureano_18@hotmail.com](mailto:tucorreo@example.com)
+- Correo electrónico: [Laureano_18@hotmail.com](Laureano_18@hotmail.com)
 - LinkedIn: [](https://linkedin.com/in/tu-usuario)
