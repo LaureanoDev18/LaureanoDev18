@@ -6,13 +6,13 @@ Bienvenido a mi página de GitHub. Soy un apasionado de la tecnología y la prog
 
 ## 💼 Resumen sobre mí
 
-Soy Programador Web sin experiencia. Me encanta aprender nuevas tecnologías y enfrentar retos. He trabajado en proyectos web de la carrera (basicos).
+Soy un desarrollador en progreso. Me gusta aprender nuevas tecnologías y enfrentar retos.
 
 ## 🔧 Habilidades adquiridas
 
 - **Desarrollo web:** HTML, CSS, JavaScript ✔
 - **Lenguajes de programación:** Python, JavaScript ✔
-- **Frameworks y herramientas:** React (En proceso) ❌
+- **Frameworks y herramientas:** (En proceso) ❌
 - **Otras habilidades:** Git, APIs (En proceso) ❌
 
 ## 📊 Mis estadísticas
